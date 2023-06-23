@@ -1,0 +1,105 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.26:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:37] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:37] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:51] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:53:53] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:54:26] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:54:37] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:56:44] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 10:57:09] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:00:12] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:00:58] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:00:59] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:03:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:06:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:06:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:06:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:07:02] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:09:24] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:09:30] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:10:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:10:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:10:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:10:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:11:00] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:12:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:12:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:12:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:12:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:13:04] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:13:16] "POST /review HTTP/1.1" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:13:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:19:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:19:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:19:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [23/Jun/2023 11:19:22] "POST /review HTTP/1.1" 200 -

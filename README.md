@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-    <h1 style="font-size: 46px; text-align: center;">Image Scraping Web Application</h1>
-    <!-- Rest of your content goes here -->
-</body>
-
-</html>
+# <span style="font-size:32px;">Image Scraping Web Application</span>
 
 
 # Introduction

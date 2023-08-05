@@ -1,4 +1,19 @@
-# Image Scraping Web Application
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Image Scraping Web Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 style="font-size: 36px; text-align: center;">Image Scraping Web Application</h1>
+    <!-- Rest of your content goes here -->
+</body>
+
+</html>
+
 
 # Introduction
 This web application allows users to search for images based on a word or phrase. It uses Google search to find images related to the given query and saves them for the user to see.

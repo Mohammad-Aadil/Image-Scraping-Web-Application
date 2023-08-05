@@ -3,12 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Image Scraping Web Application</title>
+
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1 style="font-size: 36px; text-align: center;">Image Scraping Web Application</h1>
+    <h1 style="font-size: 46px; text-align: center;">Image Scraping Web Application</h1>
     <!-- Rest of your content goes here -->
 </body>
 

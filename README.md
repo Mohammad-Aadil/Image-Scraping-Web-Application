@@ -15,7 +15,7 @@ Follow these steps to set up the project on your computer:
 
 1. Clone the repository : 
 git clone https://github.com/Mohammad-Aadil/image-scraping-web-app.git
- cd image-scraping-web-app
+cd image-scraping-web-app
 
 3. Install the required software:
 pip install -r requirements.txt

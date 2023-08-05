@@ -1,4 +1,4 @@
-## Image Scraping Web Application
+# Image Scraping Web Application
 
 # Introduction
 This web application allows users to search for images based on a word or phrase. It uses Google search to find images related to the given query and saves them for the user to see.
